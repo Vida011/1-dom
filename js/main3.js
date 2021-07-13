@@ -1,4 +1,4 @@
-const h2DOM = document.querySelector('h2')
+const h1DOM = document.querySelector('h1')
 
 // klases simba pridejimas. Pirmiausia kreipiamasi i elementa h2DOM, tada reikia prideti klases
 
